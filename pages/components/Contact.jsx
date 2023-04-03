@@ -43,7 +43,7 @@ export const Contact = () => {
                     <div className='col-span-3 lg:col-span-2 w-full h-full shadow-xl shadow-gray-400 rounded-xl p-4'>
                         <div className='lg:p-4 h-full rounded-xl'>
                             <div>
-                                <image className='rounded-xl hover-scale-105 ease-in duration-300' src='https://media.istockphoto.com/id/1323765737/photo/close-up-of-a-businessman-using-a-laptop-computer-and-a-mobile-phone.jpg?b=1&s=170667a&w=0&k=20&c=xhxUuce47qfFXME0SyZH1B4rYtxLU2f9GWY5Y46ABhA=' alt='/' />
+                                <img className='rounded-xl hover-scale-105 ease-in duration-300' src='https://media.istockphoto.com/id/1323765737/photo/close-up-of-a-businessman-using-a-laptop-computer-and-a-mobile-phone.jpg?b=1&s=170667a&w=0&k=20&c=xhxUuce47qfFXME0SyZH1B4rYtxLU2f9GWY5Y46ABhA=' alt='/' />
                             </div>
                             <div>
                                 <h2 className='py-2'> Antoine Godin </h2>
