@@ -25,13 +25,13 @@ export const Main = () => {
                     </p>
                     <div className='flex items-center justify-between max-w-[330px] m-auto py-4'>
                         <div className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-105 ease-in duration-200'>
-                            <Link href='https://www.linkedin.com/in/antoine-godin-53724b23b/'><FaLinkedin /></Link>
+                            <a href='https://www.linkedin.com/in/antoine-godin-53724b23b/'><FaLinkedin /></a>
                         </div>
                         <div className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-105 ease-in duration-200'>
-                            <Link href='https://github.com/Lowcol'><FaGithub /></Link>
+                            <a href='https://github.com/Lowcol'><FaGithub /></a>
                         </div>
                         <div className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-105 ease-in duration-200'>
-                            <Link href='https://gitlab.com/lowcol'><AiFillGitlab /></Link>
+                            <a href='https://gitlab.com/lowcol'><AiFillGitlab /></a>
                         </div>
                         <div className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-105 ease-in duration-200'>
                             <Link href='/#contact'><AiOutlineMail /></Link>
