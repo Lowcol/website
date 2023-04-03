@@ -3,7 +3,7 @@ import Image from "next/image";
 import { RiRadioButtonFill } from "react-icons/ri";
 import Link from "next/link";
 import giftradingbot from '../public/TradingBotDemo.gif'
-import tradingbotimg from '../public/Tradingbot.png'
+import tradingbotimg from '../public/TradingBot.png'
 
 const TradingBot = () => {
 
