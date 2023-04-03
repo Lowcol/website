@@ -1,6 +1,6 @@
 import React from "react";
 import Image from "next/image";
-import podcasts from "./Podcasts.jpg";
+import podcasts from "../public/Podcasts.jpg";
 import { RiRadioButtonFill } from "react-icons/ri";
 import Link from "next/link";
 import gif from "../public/PodcastsDemo.gif";
